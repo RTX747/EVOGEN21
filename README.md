@@ -1,6 +1,6 @@
 # EVOGEN21
 Custom dataset created for music genre classification and music genre evolution tasks.
-Dataset is originally created and used in our research paper "Beyond the Decision Boundary: Genre Evolution" published in ///TBD conference in 2026. Please cite our paper on your research: ///TBD
+It was originally created and utilized in the research paper "Beyond the Decision Boundary: Genre Evolution," published in TBD Conference, 2026. Please cite the associated publication if this dataset is used in your work.
 
 ## Copyright Disclaimer
 This dataset is provided for academic research purposes only. Any commercial use is strictly prohibited.
